@@ -29,6 +29,12 @@
 <img align="left" alt="Linux" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/linux.svg" />
 <img align="left" alt="Confluence" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/confluence.svg" />
 
+
+### Connect with me
+[<img align="left" alt="Linkedin" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/instagram.svg" />][instagram]
+[<img align="left" alt="VK" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/vk.svg" />][vk]
+
 [linkedin]: https://www.linkedin.com/in/pavel-dat-11699420b/
 [instagram]: https://www.instagram.com/pasha_dats/
 [vk]: https://vk.com/pashkadats
