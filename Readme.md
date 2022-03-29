@@ -34,11 +34,12 @@
 [<img align="left" alt="Instagram" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/instagram.svg" />][instagram]
 [<img align="left" alt="VK" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/vk.svg" />][vk]
 [<img align="left" alt="Gmail" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/gmail1.svg" />][gmail]
+
 <br>
 <br>
 <br>
 
-### Statistics
+## Statistics
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paveldat&show_icons=true&theme=swift" />
 <br>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paveldat&langs_count=8&layout=compact&theme=swift" />
