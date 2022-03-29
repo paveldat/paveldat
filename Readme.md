@@ -9,17 +9,17 @@
 - 🤓 I am a fourth-year student of St. Petersburg Polytechnic University (Fundamental Informatics and Information Technology)
 
 ### Languages and Tools:
-<img alt="Bash" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/bash.svg" />
-<img alt="Python" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/python.svg" />
+<top>
+<img align="left" alt="Bash" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/bash.svg" />
+<img align="left" alt="Python" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/python.svg" />
 <img align="left" alt="C++" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/c%2B%2B.svg" />
 <img align="left" alt="C#" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/c%23.svg" />
 <img align="left" alt="MySQL" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/mysql.svg" />
 <img align="left" alt="Groovy" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/groovy.svg" />
 <img align="left" alt="Java" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/java.svg" />
+</top>
 
-# <hr />
-
-<img align="left" alt="Docker" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
+<img align="lef" alt="Docker" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
 <img align="left" alt="Github" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
 <img align="left" alt="Gitlab" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/gitlab.svg" />
 <img align="left" alt="Jenkins" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/jenkins.svg" />
