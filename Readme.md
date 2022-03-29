@@ -19,6 +19,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <img align="left" alt="Docker" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
 <img align="left" alt="Github" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
