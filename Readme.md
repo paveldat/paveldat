@@ -17,9 +17,7 @@
 <img align="left" alt="Groovy" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/groovy.svg" />
 <img align="left" alt="Java" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/java.svg" />
 
-<br />
-<hr />
-<br />
+# <hr />
 
 <img align="left" alt="Docker" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
 <img align="left" alt="Github" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
