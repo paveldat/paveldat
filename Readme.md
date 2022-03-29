@@ -14,14 +14,20 @@
 <img align="left" alt="C++" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/c%2B%2B.svg" />
 <img align="left" alt="C#" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/c%23.svg" />
 <img align="left" alt="MySQL" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/mysql.svg" />
-<img align="left" alt="C#" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/c%23.svg" />
 <img align="left" alt="Groovy" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/groovy.svg" />
+<img align="left" alt="Java" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/java.svg" />
 
 <br>
 <br>
 <br>
 
 <img align="left" alt="Docker" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
+<img align="left" alt="Github" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
+<img align="left" alt="Gitlab" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/gitlab.svg" />
+<img align="left" alt="Jenkins" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/jenkins.svg" />
+<img align="left" alt="Jira" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/jira.svg" />
+<img align="left" alt="Linux" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/linux.svg" />
+<img align="left" alt="Confluence" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/confluence.svg" />
 
 [linkedin]: https://www.linkedin.com/in/pavel-dat-11699420b/
 [instagram]: https://www.instagram.com/pasha_dats/
