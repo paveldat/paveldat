@@ -17,8 +17,6 @@
 <img align="left" alt="Groovy" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/groovy.svg" />
 <img align="left" alt="Java" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/java.svg" />
 
-<br />
-
 <img align="lef" alt="Docker" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
 <img align="left" alt="Github" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
 <img align="left" alt="Gitlab" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/gitlab.svg" />
@@ -29,7 +27,7 @@
 
 <br /> 
 
-### Connect with me
+## Connect with me
 [<img align="left" alt="Linkedin" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/instagram.svg" />][instagram]
 [<img align="left" alt="VK" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/vk.svg" />][vk]
