@@ -19,6 +19,7 @@
 <img align="left" alt="Java" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/java.svg" />
 </top>
 
+<bottom>
 <img align="lef" alt="Docker" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
 <img align="left" alt="Github" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
 <img align="left" alt="Gitlab" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/gitlab.svg" />
@@ -26,10 +27,7 @@
 <img align="left" alt="Jira" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/jira.svg" />
 <img align="left" alt="Linux" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/linux.svg" />
 <img align="left" alt="Confluence" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/confluence.svg" />
-
-<br>
-<br>
-<br>
+</bottom>
 
 ### Connect with me
 [<img align="left" alt="Linkedin" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/linkedin.svg" />][linkedin]
