@@ -37,7 +37,7 @@
 [<img align="left" alt="Linkedin" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/instagram.svg" />][instagram]
 [<img align="left" alt="VK" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/vk.svg" />][vk]
-[<img align="left" alt="Gmail" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/gmail1.svg" />][gmail]
+[<img align="left" alt="Gmail" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/gmail1.svg" />][gmail]
 <br>
 <br>
 <br>
