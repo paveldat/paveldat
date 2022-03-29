@@ -9,7 +9,7 @@
 - 🤓 I am a fourth-year student of St. Petersburg Polytechnic University (Fundamental Informatics and Information Technology)
 
 ### Languages and Tools:
-<img align="left" alt="Bash" width="26px" src="https://github.com/paveldat/paveldat/blob/main/img/bash.png" />
+<img align="left" alt="Bash" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/bash.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/paveldat/paveldat/blob/main/img/python.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://github.com/paveldat/paveldat/blob/main/img/jenkins.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/paveldat/paveldat/blob/main/img/c++.png" />
