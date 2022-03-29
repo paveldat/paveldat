@@ -20,7 +20,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <img align="left" alt="Docker" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
 <img align="left" alt="Github" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
@@ -44,6 +43,7 @@
 <br>
 
 ### Statistics
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paveldat&show_icons=true" />
 
 [linkedin]: https://www.linkedin.com/in/pavel-dat-11699420b/
 [instagram]: https://www.instagram.com/pasha_dats/
