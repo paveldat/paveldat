@@ -10,9 +10,9 @@
 
 ### Languages and Tools:
 <img align="left" alt="Bash" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/bash.svg" />
-<img align="left" alt="Python" width="26px" src="https://github.com/paveldat/paveldat/blob/main/img/python.png" />
-<img align="left" alt="Jenkins" width="26px" src="https://github.com/paveldat/paveldat/blob/main/img/jenkins.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/paveldat/paveldat/blob/main/img/c++.png" />
+<img align="left" alt="Bash" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/python.svg" />
+<img align="left" alt="Bash" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/c++.svg" />
+<img align="left" alt="Bash" width="60px" src="https://github.com/paveldat/paveldat/blob/main/img/c#.svg" />
 
 [linkedin]: https://www.linkedin.com/in/pavel-dat-11699420b/
 [instagram]: https://www.instagram.com/pasha_dats/
