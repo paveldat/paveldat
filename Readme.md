@@ -22,13 +22,13 @@
 <br />
 
 ### Tools:
-<img align="lef" alt="Docker" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
-<img align="left" alt="Github" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
-<img align="left" alt="Gitlab" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/gitlab.svg" />
-<img align="left" alt="Jenkins" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/jenkins.svg" />
-<img align="left" alt="Jira" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/jira.svg" />
-<img align="left" alt="Linux" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/linux.svg" />
-<img align="left" alt="Confluence" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/confluence.svg" />
+<img align="left" alt="Docker" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/docker.svg" />
+<img align="left" alt="Github" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/github.svg" />
+<img align="left" alt="Gitlab" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/gitlab.svg" />
+<img align="left" alt="Jenkins" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/jenkins.svg" />
+<img align="left" alt="Jira" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/jira.svg" />
+<img align="left" alt="Linux" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/linux.svg" />
+<img align="left" alt="Confluence" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/confluence.svg" />
 
 <br /> 
 <br /> 
