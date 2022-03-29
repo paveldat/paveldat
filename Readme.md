@@ -32,6 +32,7 @@
 
 <br /> 
 <br /> 
+<br />
 
 ## Connect with me
 [<img align="left" alt="Linkedin" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/linkedin.svg" />][linkedin]
