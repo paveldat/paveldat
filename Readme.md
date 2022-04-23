@@ -52,6 +52,8 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paveldat&show_icons=true&theme=swift" />
 <br>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paveldat&langs_count=8&layout=compact&theme=swift" />
+<br>
+<img align="left" alt="contribution graph" src="https://activity-graph.herokuapp.com/graph?username=mdrakibulislam-zero&theme=nord&hide_border=true">
 
 [linkedin]: https://www.linkedin.com/in/pavel-dat-11699420b/
 [instagram]: https://www.instagram.com/pasha_dats/
