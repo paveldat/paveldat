@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Pavel
 
 ![](https://komarev.com/ghpvc/?username=paveldat)
+![](https://img.shields.io/github/followers/paveldat?label=Followers&style=social)
 
 ## I'm DevOps Engineer and Software Engineer
 - 💼 Software Engineer at [Nokia](https://www.nokia.com/)
