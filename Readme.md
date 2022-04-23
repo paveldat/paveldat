@@ -49,7 +49,7 @@
 <br>
 
 ## Statistics
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paveldat&langs_count=8&layout=compact&theme=nord&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paveldat&langs_count=8&layout=compact&theme=nord&hide_border=true" />
 <br>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paveldat&show_icons=true&theme=nord&hide_border=true" />
 <br>
