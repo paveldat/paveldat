@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/followers/paveldat?label=Followers&style=social)
 
 ## I'm DevOps Engineer and Software Engineer
-- 💼 Software Engineer at [YADRO](https://yadro.com/ru)
+- 💼 Software Engineer at [Yadro](https://yadro.com/ru)
 - 🎉 I love to play the guitar
 - 🥅 I am constantly learning new things
 - 🤓 I am a fourth-year student of St. Petersburg Polytechnic University (Fundamental Informatics and Information Technology)
