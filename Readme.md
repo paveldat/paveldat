@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Pavel
+### <center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+I'm+Pavel)](https://git.io/typing-svg)</center>
 
 ![](https://komarev.com/ghpvc/?username=paveldat)
 ![](https://img.shields.io/github/followers/paveldat?label=Followers&style=social)
@@ -46,6 +46,11 @@
 
 <br>
 <br>
+<br>
+
+## Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=paveldat)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 
 ## Statistics
