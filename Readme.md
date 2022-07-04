@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=AFE3F7&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Pavel)](https://git.io/typing-svg)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=AFE3F7&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Pavel)
 
 ![](https://komarev.com/ghpvc/?username=paveldat)
 ![](https://img.shields.io/github/followers/paveldat?label=Followers&style=social)
