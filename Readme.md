@@ -7,7 +7,7 @@
 - 💼 Software Engineer | CI Engineer at [YADRO](https://yadro.com/ru)
 - 🎉 I love to play the guitar
 - 🥅 I am constantly learning new things
-- 🤓 I am a fourth-year student of St. Petersburg Polytechnic University (Fundamental Informatics and Information Technology)
+- 🤓 I am a I am a first-year graduate student of St. Petersburg Polytechnic University (Fundamental Informatics and Information Technology)
 
 ### Languages:
 <img align="left" alt="Bash" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/bash.svg" />
