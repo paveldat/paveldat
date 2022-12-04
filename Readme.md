@@ -32,6 +32,7 @@
 <img align="left" alt="Jira" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/jira.svg" />
 <img align="left" alt="Linux" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/linux.svg" />
 <img align="left" alt="Confluence" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/confluence.svg" />
+<img align="left" alt="Kubernetes" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/kubernetes.svg" />
 
 <br /> 
 <br /> 
