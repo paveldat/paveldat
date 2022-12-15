@@ -6,6 +6,7 @@
 ## I'm DevOps Engineer and Software Engineer
 - 💼 Software Engineer | CI Engineer at [YADRO](https://yadro.com/ru)
 - 🎉 I love to play the guitar
+- 📰 I write scientific articles on [Habr](https://habr.com/ru/users/Pavel_Dat/posts/)
 - 🥅 I am constantly learning new things
 - 🤓 I am a I am a first-year graduate student of St. Petersburg Polytechnic University (Fundamental Informatics and Information Technology)
 
@@ -59,7 +60,7 @@
 <br>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paveldat&show_icons=true&theme=nord&hide_border=true" />
 <br>
-<img align="left" alt="contribution graph" src="https://activity-graph.herokuapp.com/graph?username=paveldat&theme=nord&hide_border=true">
+<!-- <img align="left" alt="contribution graph" src="https://activity-graph.herokuapp.com/graph?username=paveldat&theme=nord&hide_border=true"> -->
 
 [linkedin]: https://www.linkedin.com/in/pavel-dat-11699420b/
 [instagram]: https://www.instagram.com/pasha_dats/
