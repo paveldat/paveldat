@@ -6,7 +6,7 @@
 ## I'm DevOps Engineer and Software Engineer
 - 💼 Software Engineer | CI Engineer at [YADRO](https://yadro.com/ru)
 - 🎉 I love to play the guitar
-- 📰 I write scientific articles on [Habr](https://habr.com/ru/users/Pavel_Dat/posts/)
+- 📰 I write scientific articles on the [Habr](https://habr.com/ru/users/Pavel_Dat/posts/)
 - 🥅 I am constantly learning new things
 - 🤓 I am a I am a first-year graduate student of St. Petersburg Polytechnic University (Fundamental Informatics and Information Technology)
 
