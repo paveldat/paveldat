@@ -35,6 +35,7 @@
 <img align="left" alt="Confluence" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/confluence.svg" />
 <img align="left" alt="Kubernetes" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/kubernetes.svg" />
 <img align="left" alt="Grafana" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/grafana.svg" />
+<img align="left" alt="Proxmox" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/proxmox.svg" />
 
 <br /> 
 <br /> 
