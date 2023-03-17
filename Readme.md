@@ -19,7 +19,6 @@
 <img align="left" alt="Groovy" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/groovy.svg" />
 <img align="left" alt="Java" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/java.svg" />
 
-
 <br />
 <br />
 <br />
@@ -40,6 +39,7 @@
 <br />
 <br /> 
 <br /> 
+<br />
 <br />
 <br />
 
