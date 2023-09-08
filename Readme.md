@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/followers/paveldat?label=Followers&style=social)
 
 ## I'm DevOps Engineer and Software Engineer
-- 💼 Software Engineer | CI Engineer at [YADRO](https://yadro.com/ru)
+- 💼 DevOps Engineer at [YADRO](https://yadro.com/ru)
 - 🎉 I love to play the guitar
 - 📰 I write scientific articles on [Habr](https://habr.com/ru/users/Pavel_Dat/posts/)
 - 🥅 I am constantly learning new things
