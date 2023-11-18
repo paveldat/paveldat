@@ -9,6 +9,7 @@
 - 📰 I write scientific articles on [Habr](https://habr.com/ru/users/Pavel_Dat/posts/)
 - 🥅 I am constantly learning new things
 - 🤓 I am a second-year graduate student of St. Petersburg Polytechnic University (Fundamental Informatics and Information Technology)
+- 🏆 I am a prize-winner (2nd place) of the first All-Russian competition for formal verification of VeHa-2023 programs held as part of the PSSV-2023 conference
 
 ### Languages:
 <img align="left" alt="Bash" width="50px" src="https://github.com/paveldat/paveldat/blob/main/img/bash.svg" />
